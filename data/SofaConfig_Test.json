@@ -1,0 +1,102 @@
+{
+  "productType": 5,
+  "productId": "Sofa_1",
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  },
+  "modules": [
+    {
+      "productType": 6,
+      "productId": "Module_001",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "productType": 6,
+      "productId": "Module_002",
+      "position": {
+        "x": 1.1999996900558472,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "productType": 6,
+      "productId": "Module_002",
+      "position": {
+        "x": 2.3999996185302734,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "armrests": [
+    {
+      "productType": 7,
+      "productId": "Armrest_001",
+      "position": {
+        "x": 2.999999523162842,
+        "y": 0.07999999821186066,
+        "z": -1.1920928955078125e-07
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "productType": 7,
+      "productId": "Armrest_001",
+      "position": {
+        "x": -0.6000000238418579,
+        "y": 0.07999999821186066,
+        "z": -1.1920928955078125e-07
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    }
+  ],
+  "legsId": "Leg_001",
+  "armrestId": "Armrest_001",
+  "fabricId": "EM_FABRIC.1",
+  "canBeEdited": true,
+  "isModular": true,
+  "canChangeLegs": true,
+  "canChangeMaterials": true,
+  "canChangeArmrests": true
+}
